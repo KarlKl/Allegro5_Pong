@@ -4,7 +4,7 @@ This is a multiplayer only pong game using the allegro5 lib written in C.
 ## License
 This project is licensed under the GNU GPL v3 License.
 
-Third party licenses:
+## Third party
 ### Font
 The font `E4_2017` was provided by the User `178Ulysees` and has been downloaded from here: [FontStruct](http://fontstruct.com/fontstructions/show/1276352).
 ### Soundeffects
